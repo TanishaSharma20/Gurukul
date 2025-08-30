@@ -1,6 +1,6 @@
 # Gurukul
 
-Gurukul is a classroom management web application built with React. It allows teachers to create classrooms, manage posts, and approve student join requests via OTP. Students can search for classrooms, join them, and view posts.
+Gurukul is a classroom management web application built with React, which is a JavaScript library for building user interfaces.. It allows teachers to create classrooms, manage posts, and approve student join requests via OTP. Students can search for classrooms, join them, and view posts.
 
 ## Features
 
